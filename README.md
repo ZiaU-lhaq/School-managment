@@ -1,10 +1,4 @@
 ## CloudSchool
-
-[![Codeship Status for hrshadhin/school-management-system](https://app.codeship.com/projects/09010350-b97f-0136-1477-5a7589b245e6/status?branch=master)](https://app.codeship.com/projects/312233)
-[![license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
-[![php](https://img.shields.io/badge/php-7.2-brightgreen.svg?logo=php)](https://www.php.net)
-[![laravel](https://img.shields.io/badge/laravel-6.x-orange.svg?logo=laravel)](https://laravel.com)
-
 ```
                        _____  _                    _   _____        _                    _ 
                       / ____|| |                  | | / ____|      | |                  | |
@@ -37,23 +31,8 @@ Another School Management System build with Laravel and PHP 7
 - [Issues](#issues)
 - [License](#license)
 
-## Have a query
-
-[:arrow_up: Back to top](#index)
-
-:mega: Join our discord channel: [CloudSchool](https://discord.gg/7rXyuu8):mega:
-
-:mega: Send us an email: [info@cloudschoolbd.com](mailto:info@cloudschoolbd.com):mega:
-
-## Demo
-
-[:arrow_up: Back to top](#index)
 
 #### Enterprise Edition
-
-- Website: [http://demo.cloudschoolbd.com](http://demo.cloudschoolbd.com)
-- App login: [http://demo.cloudschoolbd.com/login](http://demo.cloudschoolbd.com/login)
-
   | Username   | Password |
   | ---------- | :------- |
   | superadmin | super99  |
@@ -61,7 +40,6 @@ Another School Management System build with Laravel and PHP 7
 
 ## Features
 
-[:arrow_up: Back to top](#index)
 
 | Community Edition                            |              Enterprise Edition              |
 | -------------------------------------------- | :------------------------------------------: |
@@ -128,7 +106,7 @@ Another School Management System build with Laravel and PHP 7
 - Ctype PHP Extension
 - JSON PHP Extension
 - MySQL >= 5.6 `OR` MariaDB >= 10.1
-- [hrshadhin/laravel-userstamps](https://github.com/hrshadhin/laravel-userstamps.git) [**Already Installed**]
+[**Already Installed**]
 - NodeJS, npm, webpack
 
 #### Download and setup
@@ -143,7 +121,7 @@ Another School Management System build with Laravel and PHP 7
   ```
 
   ```
-  $ git clone https://github.com/hrshadhin/school-management-system.git cloudschool
+  $ git clone https://github.com/ZiaU-lhaq/School-managment.git cloudschool
   ```
 
 - change directory
@@ -224,24 +202,7 @@ Another School Management System build with Laravel and PHP 7
 
 [:arrow_up: Back to top](#index)
 
-- [http://ug.cloudschoolbd.com](http://ug.cloudschoolbd.com)
 
-## Timeline
-
-- [Check Here](CHANGELOG.md)
-
-## Screenshot
-
-[:arrow_up: Back to top](#index)
-
-- ![Dashboard](../assets/screenshots/ce/dashboard.png?raw=true)
-- **[More...](../assets/screenshots/ce/showme.md)**
-
-## Contributing
-
-[:arrow_up: Back to top](#index)
-
-Don't be shy to make some PR's here :smile:
 
 #### To-do
 
@@ -250,45 +211,4 @@ Don't be shy to make some PR's here :smile:
 - [ ] Add new UI theme version **AdminLTE**
 - [ ] Update Jquery with datetime picker library
 
-#### Contributers
 
-A big shout out to all the contributers, more specifically to these guys
-
-- [H.R. Shadhin](https://github.com/hrshadhin)
-- [Ashutosh Das](https://github.com/pyprism)
-- [order4adwriter](https://github.com/order4adwriter)
-- [Zahid Irfan](https://github.com/zahidirfan)
-- [Oshane Bailey](https://github.com/b4oshany)
-
-## Issues
-
-[:arrow_up: Back to top](#index)
-
-- If you faced any problems, first check previous issue list. If doesn't exists then create a new one.
-- You can report the bugs at the [issue tracker](https://github.com/hrshadhin/school-management-system/issues)
-- If you discover a security vulnerability within CloudSchool app, please send an e-mail to [sos@cloudschoolbd.com](mailto:sos@cloudschoolbd.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-[:arrow_up: Back to top](#index)
-
-Copyright (c) the respective developers and maintainers, as shown by the AUTHORS file.
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU Affero General Public License as published
-by the Free Software Foundation, either version 3 of the License, or any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU Affero General Public License for more details.
-
-You should have received a copy of the GNU Affero General Public License
-along with this program. If not, see <http://www.gnu.org/licenses/>.
-
-All Frameworks and libraries are distributed with it's own license.
-
-**As it is a free(free as in freedom) software. To keep the credit for this works, you should
-not remove application footer information text**
-
-**Why AGPL? [Read Here](https://www.gnu.org/licenses/why-affero-gpl.html)**
