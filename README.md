@@ -10,7 +10,6 @@
 
 Another School Management System build with Laravel and PHP 7
 
-## :loudspeaker: **For Enterprise Edition(EE) checkout [here](https://github.com/hrshadhin/school-management-system/tree/empty)**
 
 ## Index
 
