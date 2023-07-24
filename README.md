@@ -136,10 +136,6 @@ Another School Management System build with Laravel and PHP 7
   $ composer install
   ```
 - Setup application
- - Setup application 
-- Setup application
- - Setup application 
-- Setup application
 
   - Method 1: By one command
 
